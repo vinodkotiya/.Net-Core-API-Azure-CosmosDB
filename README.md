@@ -38,7 +38,7 @@ This project implements a **REST API** for managing users using **ASP.NET Core**
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone (https://github.com/vinodkotiya/.Net-Core-API-Azure-CosmosDB)
 cd your-repository-name
 
 
