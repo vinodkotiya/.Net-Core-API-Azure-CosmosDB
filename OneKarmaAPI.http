@@ -1,0 +1,6 @@
+@OneKarmaAPI_HostAddress = http://localhost:5285
+
+GET {{OneKarmaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
